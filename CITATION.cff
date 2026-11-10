@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite the conference poster."
+title: "Identifying Thought Patterns in Major Depressive Disorder Using Variational Inference and Large Language Models Integrated with Concept Space"
+authors:
+  - family-names: Mirström
+    given-names: Mariam Marlen
+  - family-names: Heydari Beni
+    given-names: Mohammad-Hossein
+  - family-names: Rezai
+    given-names: Shima
+type: conference-paper
+conference:
+  name: 19th Swedish Cognitive Science Society Conference (SweCog 2024)
+  location: Stockholm, Sweden
+  date: 2024
+notes: "Poster presentation, poster number 42. This GitHub repository documents the poster framework; it is not a journal publication."
