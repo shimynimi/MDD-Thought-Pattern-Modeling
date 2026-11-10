@@ -1,6 +1,9 @@
 cff-version: 1.2.0
-message: "If you use or refer to this work, please cite the conference poster."
-title: "Identifying Thought Patterns in Major Depressive Disorder Using Variational Inference and Large Language Models Integrated with Concept Space"
+message: "If you use or refer to the repository, please cite the conference poster described in the preferred citation."
+title: "MDD Thought Pattern Modeling — Conference Poster Documentation"
+type: software
+url: "https://github.com/shimynimi/MDD-Thought-Pattern-Modeling"
+repository-code: "https://github.com/shimynimi/MDD-Thought-Pattern-Modeling"
 authors:
   - family-names: Mirström
     given-names: Mariam Marlen
@@ -8,9 +11,18 @@ authors:
     given-names: Mohammad-Hossein
   - family-names: Rezai
     given-names: Shima
-type: conference-paper
-conference:
-  name: 19th Swedish Cognitive Science Society Conference (SweCog 2024)
-  location: Stockholm, Sweden
-  date: 2024
-notes: "Poster presentation, poster number 42. This GitHub repository documents the poster framework; it is not a journal publication."
+preferred-citation:
+  type: conference-paper
+  title: "Identifying Thought Patterns in Major Depressive Disorder Using Variational Inference and Large Language Models Integrated with Concept Space"
+  authors:
+    - family-names: Mirström
+      given-names: Mariam Marlen
+    - family-names: Heydari Beni
+      given-names: Mohammad-Hossein
+    - family-names: Rezai
+      given-names: Shima
+  year: 2024
+  conference:
+    name: "19th Swedish Cognitive Science Society Conference (SweCog 2024)"
+    location: "Stockholm, Sweden"
+  notes: "Poster presentation, number 42. The GitHub repository documents the poster framework; it is not a journal publication."
